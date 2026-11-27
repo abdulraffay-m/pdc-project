@@ -4,6 +4,8 @@ Newest first. Add a row whenever we decide something the others need to know. Ne
 
 | Date | Decision | Why | Decided by |
 |---|---|---|---|
+| 2026-11-27 | Tier 1 freeze on Wed 2 Dec 2026; final deadline Fri 4 Dec 2026 (replaces the proposal's 30 Nov freeze) | The proposal's dates slipped; the guide fixes the deadline at 4 Dec | Raffay |
+| 2026-11-27 | GBBS submodule URL is `https://github.com/ParAlg/gbbs` (the proposal and vault had `ParAlgo`, which doesn't exist) | Typo found when adding the submodule | Raffay |
 | 2026-11-27 | Variants return `std::vector<int>` instead of `int*` (changes the earlier plan) | No manual memory handling, same speed | Raffay |
 | 2026-11-27 | GBBS goes in as a git submodule under `external/gbbs`, used only for reading and the reference run | Keeps their code clearly separate from ours; satisfies acknowledgement rules | Raffay |
 | 2026-11-27 | We reimplement from the papers' ideas; no code is taken from GBBS or #36's code | OpenMP is needed for the S study; the viva needs code we can explain; the proposal commits to it; the course comment said to avoid the full framework | Group |
