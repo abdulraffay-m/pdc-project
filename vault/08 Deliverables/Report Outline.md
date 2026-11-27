@@ -1,6 +1,6 @@
 # Report Outline (written last)
 
-Limit: 5–6 pages excluding references and appendices. Each section owner writes from the vault notes and [[Results Log]]; Ibrahim edits the whole.
+Limit: 5–6 pages excluding references and appendices. Each section owner writes from the vault notes and [[Results Log]]; Raffay edits the whole.
 
 | § | Section | Owner | Pull from |
 |---|---|---|---|
@@ -10,7 +10,7 @@ Limit: 5–6 pages excluding references and appendices. Each section owner write
 | 4 | Parallel implementation: bucket structure, C1, S | Ibrahim + Hadeed | [[Interfaces]], [[C1 Hybrid Update]], [[S Scheduling Study]] |
 | 5 | Correctness validation | Raffay | [[Correctness]] |
 | 6 | Experimental results | Hadeed | [[Experiment Plan]], [[Results Log]], figures |
-| 7 | Conclusion and limitations | Ibrahim | everything |
-| — | References, acknowledgements | Ibrahim | [[Acknowledgements]] |
+| 7 | Conclusion and limitations | Raffay | everything |
+| — | References, acknowledgements | Raffay | [[Acknowledgements]] |
 
 Don't start this until the Tier 1 freeze and T9 are done.

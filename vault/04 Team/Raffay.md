@@ -1,12 +1,13 @@
-# Raffay: Foundation, Correctness and B2
+# Raffay: Foundation, Correctness and B2 (lead)
 
 Abdul Raffay Moazzam, 23i-0587.
 
 ## Your tasks (see [[Task Board]])
-- **T1** CSR loader, B0, validator, hand-checked tests. Everyone depends on this, so it's first. Target: day 2.
+- **T0** Repo setup: Makefile, folders, GBBS submodule, CI workflow. Unblocks everyone, so do it first (day 1).
+- **T1** CSR loader, B0, validator, hand-checked tests. Everyone depends on this. Target: day 2.
 - **T8** Dataset script (download SNAP, symmetrise) and R-MAT generator; fuzz-test harness.
 - **T4** B2 simplified sampling.
-- **T12a** README.
+- Lead: GitHub repo settings and branch protection, task board, syncs, slides lead, final edit of the report, final submission.
 
 ## Read first
 [[k-core and Peeling]], [[Interfaces]] (Graph, checks), [[Correctness]], [[B2 Sampling Baseline]], [[Paper 36 - Liu et al 2025]] Section 4.1.

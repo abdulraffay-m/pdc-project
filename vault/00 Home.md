@@ -1,7 +1,7 @@
 # PDC Project Hub: Race Condition
 
 CS-3006 Parallel and Distributed Computing, Fall 2026, BCS-7D.
-Group **Race Condition**: Abdul Raffay Moazzam (23i-0587), Ibrahim Azad (23i-3049, lead), Muhammad Hadeed (23i-0764).
+Group **Race Condition**: Abdul Raffay Moazzam (23i-0587, lead), Ibrahim Azad (23i-3049), Muhammad Hadeed (23i-0764).
 Paper **#20: Julienne** (Dhulipala, Blelloch, Shun, SPAA 2017), scoped to **parallel k-core peeling**.
 
 ## Start here

@@ -7,7 +7,7 @@ Move a task by editing its status. Add the PR link when you open one.
 ## Phase 1: Foundation
 | Id | Task | Owner | Needs | Status | PR |
 |---|---|---|---|---|---|
-| T0 | Repo setup: Makefile, folders, `.gitignore`, GBBS submodule | Ibrahim | | ⬜ | |
+| T0 | Repo setup: Makefile, folders, GBBS submodule, CI workflow | Raffay | | ⬜ | |
 | T1 | CSR loader, B0 (BZ), `same`, `is_core`, hand-checked tests | Raffay | T0 | ⬜ | |
 | T2a | Headers: `opts.h`, `bkt.h`, `split.h`, `variants.h` | Ibrahim | T0 | ⬜ | |
 | T7a | Driver skeleton: CLI, B0 check, CSV row | Hadeed | T1 | ⬜ | |
@@ -38,9 +38,9 @@ Move a task by editing its status. Add the PR link when you open one.
 ## Phase 5: Deliverables (report last)
 | Id | Task | Owner | Needs | Status | PR |
 |---|---|---|---|---|---|
-| T12a | README.md | Raffay | T9 | ⬜ | |
-| T12b | Slides (5–7) | Ibrahim lead, all | T9 | ⬜ | |
+| T12a | README.md | Ibrahim | T9 | ⬜ | |
+| T12b | Slides (5–7) | Raffay lead, all | T9 | ⬜ | |
 | T12c | Demo instructions or link | Hadeed | T9 | ⬜ | |
 | T12d | Code comment pass | All (own code) | T9 | ⬜ | |
-| T12e | **Technical report**, 5–6 pages | All (own sections), Ibrahim edits | everything | ⬜ | |
-| T12f | Final zip and acknowledgements check | Ibrahim | T12a–e | ⬜ | |
+| T12e | **Technical report**, 5–6 pages | All (own sections), Raffay edits | everything | ⬜ | |
+| T12f | Final zip and acknowledgements check | Raffay | T12a–e | ⬜ | |
