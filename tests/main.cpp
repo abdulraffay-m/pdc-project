@@ -19,6 +19,7 @@ void check(bool ok, const std::string& what) {
 
 int main() {
     test_io();
+    test_check();
     std::printf("tests: %d run, %d failed\n", run, failed);
     return failed ? 1 : 0;
 }

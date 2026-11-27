@@ -12,3 +12,4 @@
 void check(bool ok, const std::string& what);
 
 void test_io();
+void test_check();
