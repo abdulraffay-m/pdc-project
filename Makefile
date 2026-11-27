@@ -29,6 +29,7 @@ HDR      = $(wildcard src/*.h)
 # Tests link every module except the driver, because tests have their own main().
 LIB      = $(filter-out src/main.cpp,$(SRC))
 TESTS    = $(wildcard tests/*.cpp)
+TESTHDR  = $(wildcard tests/*.h)
 
 all: bin/kcore
 
@@ -36,7 +37,7 @@ bin/kcore: $(SRC) $(HDR)
 	@mkdir -p bin
 	$(CXX) $(WARN) $(OPT) $(SRC) -o $@
 
-bin/tests: $(LIB) $(TESTS) $(HDR)
+bin/tests: $(LIB) $(TESTS) $(HDR) $(TESTHDR)
 	@mkdir -p bin
 	$(CXX) $(WARN) $(DBG) -Isrc $(LIB) $(TESTS) -o $@
 

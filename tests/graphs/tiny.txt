@@ -1,0 +1,12 @@
+# Directed graph (each unordered pair of nodes is saved once): tiny.txt
+# Loader test: sparse ids, both directions, a duplicate, a self-loop,
+# a blank line and an indented comment.
+# FromNodeId	ToNodeId
+10	20
+20	10
+20	30
+30	30
+1000 10
+10	20
+
+   # indented comment
