@@ -23,7 +23,7 @@ We use **GitHub flow**: `main` always builds and passes tests; all work is on sh
 Settings → Branches → add a rule for `main`: require a pull request before merging (0 approvals), block force pushes. Settings → General: allow only squash merging, and turn on "automatically delete head branches".
 
 ## Communication
-- **Sync every two days**, 15 minutes: what I finished, what's next, what's blocking me. Ibrahim writes the notes in `07 Meetings/` using `Templates/Meeting.md`.
+- **Sync every two days**, 15 minutes: what I finished, what's next, what's blocking me. Raffay writes the notes in `07 Meetings/` using `Templates/Meeting.md`.
 - Blocked for more than half a day? Say so in the group chat right away.
 - Any interface change: tell the group, update [[Interfaces]] and add a row to [[Decision Log]] **before** merging.
 

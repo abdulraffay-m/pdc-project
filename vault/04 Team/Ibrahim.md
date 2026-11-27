@@ -1,4 +1,4 @@
-# Ibrahim: Bucket Structure, B1, S, Integration (lead)
+# Ibrahim: Bucket Structure, B1, S
 
 Ibrahim Azad, 23i-3049.
 
@@ -9,7 +9,7 @@ Ibrahim Azad, 23i-3049.
 - **T6** S hooks: `for_edges` with vertex and edge decomposition, runtime schedules, imbalance counters.
 - **T10** (optional, with Hadeed) GBBS reference run on com-Orkut.
 - **T11** C2, Tier 2 only.
-- Lead: task board, syncs, final edit.
+- **T12a** README.
 
 ## Read first
 [[Paper 20 - Julienne]], [[Interfaces]], [[S Scheduling Study]], [[C2 Local Queues]].

@@ -5,7 +5,7 @@ From the course announcement (original text in `09 Sources/MileStone3-Annoucment
 | # | Deliverable | Requirement | Owner | Status |
 |---|---|---|---|---|
 | 1 | Source code | Complete source files **with proper comments**, test graphs, scripts, config files | All | ⬜ |
-| 2 | `README.md` | Dependencies, compiler and version, compile commands, how to run, input format, expected output | Raffay | ⬜ |
+| 2 | `README.md` | Dependencies, compiler and version, compile commands, how to run, input format, expected output | Ibrahim | ⬜ |
 | 3 | Technical report (PDF) | **5–6 pages max** excluding references and appendices: problem, paper, methodology, baseline, parallel implementation, correctness validation, results, conclusion | All, done **last** | ⬜ |
 | 4 | Slides (PPT) | 5–7 slides: paper, problem, algorithm, implementation, results, limitations | All | ⬜ |
 | 5 | Demo | Demo link or instructions, if applicable | Hadeed | ⬜ |
