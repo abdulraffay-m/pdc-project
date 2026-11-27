@@ -22,3 +22,4 @@ Add things **as you use them**. This list goes straight into the README and the 
 |---|---|---|
 | Group | Claude (Anthropic) | Paper explanations, proposal and slide drafting, project planning, this vault |
 | Raffay | Claude Code (Anthropic) | T0 repo setup: Makefile, CI workflow, `.gitattributes`, submodule |
+| Raffay | Claude Code (Anthropic) | T1: drafting the loader, B0, `same`/`is_core` and tests, and explaining BZ; reviewed and walked through by Raffay |
