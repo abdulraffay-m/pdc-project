@@ -8,7 +8,7 @@ Move a task by editing its status. Add the PR link when you open one.
 | Id | Task | Owner | Needs | Status | PR |
 |---|---|---|---|---|---|
 | T0 | Repo setup: Makefile, folders, GBBS submodule, CI workflow | Raffay | | ✅ | [#2](https://github.com/abdulraffay-m/pdc-project/pull/2) |
-| T1 | CSR loader, B0 (BZ), `same`, `is_core`, hand-checked tests | Raffay | T0 | 🟡 | |
+| T1 | CSR loader, B0 (BZ), `same`, `is_core`, hand-checked tests | Raffay | T0 | ✅ | [#3](https://github.com/abdulraffay-m/pdc-project/pull/3) |
 | T2a | Headers: `opts.h`, `bkt.h`, `split.h`, `variants.h` | Ibrahim | T0 | ⬜ | |
 | T7a | Driver skeleton: CLI, B0 check, CSV row | Hadeed | T1 | ⬜ | |
 
