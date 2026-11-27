@@ -41,4 +41,4 @@ An extension of **Ligra** (a shared-memory graph framework built around frontier
 - Only tested on a 72-core server, not commodity machines.
 
 ## Code
-GBBS repo, `benchmarks/KCore/JulienneDBS17` (https://github.com/ParAlgo/gbbs). Reference reading only, see [[Decision Log]].
+GBBS repo, `benchmarks/KCore/JulienneDBS17` (https://github.com/ParAlg/gbbs). Reference reading only, see [[Decision Log]].

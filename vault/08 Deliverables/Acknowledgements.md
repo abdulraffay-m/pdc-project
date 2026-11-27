@@ -8,7 +8,7 @@ Add things **as you use them**. This list goes straight into the README and the 
 - V. Batagelj, M. Zaversnik. An O(m) Algorithm for Cores Decomposition of Networks. 2003.
 
 ## Code and repositories
-- GBBS (https://github.com/ParAlgo/gbbs): read for reference, used as a git submodule for the reference run. No code copied into `src/`.
+- GBBS (https://github.com/ParAlg/gbbs): read for reference, used as a git submodule for the reference run. No code copied into `src/`.
 
 ## Libraries and tools
 - OpenMP, g++, Python + matplotlib (plots only).
@@ -21,4 +21,4 @@ Add things **as you use them**. This list goes straight into the README and the 
 | Who | Tool | What for |
 |---|---|---|
 | Group | Claude (Anthropic) | Paper explanations, proposal and slide drafting, project planning, this vault |
-| | | |
+| Raffay | Claude Code (Anthropic) | T0 repo setup: Makefile, CI workflow, `.gitattributes`, submodule |

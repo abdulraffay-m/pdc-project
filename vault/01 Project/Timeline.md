@@ -1,8 +1,8 @@
 # Timeline
 
-**Milestone 3 deadline:** ________ (fill in)
+**Milestone 3 deadline:** Friday 4 December 2026 (project guide)
 **Viva:** dead week, ________ (fill in)
-**Tier 1 freeze:** ________ (set it to deadline minus 7 days; the proposal's 30 Nov date is no longer realistic)
+**Tier 1 freeze:** Wednesday 2 December 2026 (see [[Decision Log]])
 
 Phases are counted from the kickoff (27 Nov). Once the deadline is known, replace the day numbers with dates.
 

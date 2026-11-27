@@ -1,0 +1,17 @@
+# Runs on every pull request: the branch must build and pass the tests
+# before it is merged into main (see "What has to pass" in CLAUDE.md).
+# Submodules are not checked out, so CI never downloads GBBS.
+name: build-and-test
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build bin/kcore
+        run: make
+      - name: Build and run tests
+        run: make test
