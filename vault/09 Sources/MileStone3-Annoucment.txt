@@ -1,0 +1,13 @@
+Dear Students,
+
+1. Source Code: Complete code source files with proper comments, test graphs, scripts, and required configuration files.
+2. README. md: Dependencies, compiler/version, compilation commands, execution instructions, input format, and expected output.
+3. Technical Report (PDF): Maximum 5–6 pages (excluding references/appendices), covering the problem, selected paper, methodology, baseline, parallel implementation, correctness validation, experimental results, and conclusion.
+5. If your work is worthy enough, convert it into a research paper and write and share this paper as well.
+4. Presentation Slides (PPT): 5–7 slides covering the research paper, problem, algorithm, implementation, results, and limitations.
+5. Demonstration: Include relevant demo links or instructions, if applicable.
+
+Submission Instructions:
+Properly acknowledge all external code, repositories, libraries, datasets, and AI tools used.
+
+Important: All group members must understand their implementation and be prepared for the project demonstration and viva during dead week. Individual contributions and technical understanding will also be evaluated.

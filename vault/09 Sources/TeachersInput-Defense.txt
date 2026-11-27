@@ -1,0 +1,5 @@
+Teachers' input:
+
+Are you using different datasets than the actual paper, if yes how will you compare?[Not verbatum I think]
+
+[Don't remember exactly what was said though something on the lines of] You need to test on 4 8 ...etc [which we are already doing i think]

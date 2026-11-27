@@ -1,0 +1,34 @@
+As per the semester project schedule, Milestone 2—Project Proposal Submission is due on Monday, 23 November 2026.
+
+Each group is required to prepare and submit a project proposal based on its selected research paper. Your proposal must clearly demonstrate your understanding of the paper, the proposed implementation scope, its technical complexity, and your planned contribution.
+
+Your proposal must cover the following:
+
+1. Paper Understanding: Explain the graph problem, research objective, core contribution, and algorithm/methodology of the selected paper.
+2. Selected Scope and Complexity: Clearly define what you intend to implement, what you will exclude, and justify the technical difficulty and computational challenges.
+3. Proposed Contribution: Explain how you plan to extend or improve the selected approach using parallel computing concepts covered in this course (OpenMP, MPI, SIMD, or OpenCL).
+4. Implementation Plan: Describe your baseline implementation, proposed parallelization strategy, and expected improvements.
+5. Evaluation Plan: Explain how you will validate correctness and evaluate performance.
+6. References and Attribution: Properly acknowledge the selected research paper, existing code repositories, datasets, and other resources you intend to use.
+
+Evaluation – 30 Marks
+
+Milestone 2 will be evaluated according to the following criteria:
+
+- Understanding of the selected research paper: 10 Marks
+- Scope, challenge, and complexity justification: 10 Marks
+- Proposal, implementation plan, and attribution: 5 Marks
+- Presentation and defense (within 5 minutes): 5 Marks
+
+Important Instructions:
+- Every group must be prepared to explain and defend its proposal.
+- Your selected scope must be technically meaningful and achievable within the project timeline.
+- Simply reproducing or cloning an existing repository will not be considered an original contribution.
+- Marks will be awarded based on technical depth, complexity, reasoning, and the quality of your proposed contribution, not merely on the completion of the task.
+
+Deadline: Monday, 23 November 2026, 11:50 AM
+Each group must submit both the project proposal in PDF format and the presentation slides in a zip file containing both PDF and PPTX files, using the naming format GroupName_Section_PaperNo.zip. The PDF must also include your detailed understanding of the selected research paper, including its problem, methodology, core contribution, and your proposed approach.
+
+Start working on your proposals immediately. Do not wait until the last day to prepare your submission.
+
+Best of luck!

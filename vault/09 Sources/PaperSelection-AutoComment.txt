@@ -1,0 +1,4 @@
+Julienne: A Framework for Parallel Graph Algorithms using Work-Efficient Bucketing
+Implement a simplified bucket data structure and use it for one algorithm only: delta-stepping SSSP or k-core peeling. Avoid implementing the full framework.
+
+Notes: Excellent course fit for scheduling, work decomposition and SSSP.

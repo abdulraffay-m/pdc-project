@@ -1,0 +1,12 @@
+bin/
+build/
+*.o
+data/
+results/raw/
+__pycache__/
+.vscode/
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/cache
+vault/.trash/
+.DS_Store
